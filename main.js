@@ -1,20 +1,12 @@
-function calculateTicketTotal(priceText, quantityText, hasDiscount = false) {
-  // TODO: Reject blank/non-finite values, negative price, and invalid whole-number quantity.
-  // TODO: Convert deliberately and return total; apply a documented discount when true.
+function calculateTicketTotal(priceText, quantityText, hasDiscount = false){
+  if (priceText.trim() === '') return 'Enter a price.';
+  if (quantityText.trim() === '') return 'enter a quantity.';
+  const price = Number(priceText);
+  const quantity = Number(quantityText);
+  if (!Number.isFinite(price)) return "use a finite price.';
+  if (!Number.isFinite(quantity)) return 'Use a finite quantity.';
+  return price * quantity;"
 }
-console.log(calculateTicketTotal("2.50", "3")); // Expected 7.5 before discount
-// TODO: Add zero, blank, decimal-price, negative, nonnumeric and discount tests.
-
-console.log("COMP-002 activity: script loaded");
-
-{
-  var olderCount = 2;
-  let blockCount = 2;
-}
-console.log(olderCount);
-// console.log(blockCount);
-
-let practiceMinutes = 7;
-console.log(practiceMinutes);
-practiceMinutes = practiceMinutes + 5;
-console.log(`I practiced for ${practiceMinutes} minutes.`);
+Console.log(calculatetickettotal('2.50', '3'));
+console.log(calculateTicketTotal(' ', '3'));
+console.log(calculateTicketTotal('2.50', 'four'));

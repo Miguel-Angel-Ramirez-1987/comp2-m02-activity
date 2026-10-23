@@ -63,3 +63,19 @@ I added console.log to main.js. I ran debug and did recieve an undefined result.
 I followed slides 6-13. I added what I thought was the right scripts. I ran debug and my responses are undefined, comp-002 activity;script loaded, 2, 7, and I practiced for 12 mintues.
 
 ## 3. Predict expressions and operand types
+
+I did as instructed. My results of the debug generated an error. It says uncaught syntaxerror.
+
+## 4. Repair and trace a complete decision
+
+I did as instructed. The fist one resulted in a successful even. But when I compunded the prompts an error generated. But then I coded each prompt seperately and they worked on their own.
+
+## 5. Trace Calls and Ordered Returns.
+
+I did as instructed. I wrote the code as written. I ran debug and an error occurred. I did generate the desired screen.
+
+## 6. Build only the guided ticket path
+
+I did as instructed. I wrote the code as written. I ran debug and an error occurred.
+
+## 7. Expose a gap and plan the independent work
