@@ -7,34 +7,14 @@ console.log(calculateTicketTotal("2.50", "3")); // Expected 7.5 before discount
 
 console.log("COMP-002 activity: script loaded");
 
-let label = 'A';
-label = label + 'B'; // a replacement string
-
-console.log(typeof null); // 'object' : historical exception
-console.log(typeof NaN); // 'number' : still invalid input
-
-const course = 'JavaScript';
-let practiceMinutes = 7;
-const isReady = true;
-
-practiceMinutes = practoceMinutes + 5; 
-
 {
   var olderCount = 2;
   let blockCount = 2;
 }
 console.log(olderCount);
-// console.log(blockCount); 
+// console.log(blockCount);
 
-let practiceMinutes = 15;
+let practiceMinutes = 7;
 console.log(practiceMinutes);
 practiceMinutes = practiceMinutes + 5;
-console.log('I practiced for ${practiceMinutes} minutes.`);
-  
-console.log((2+3) * 4);
-
-console.log(5>=5);
-
-console.log(Boolean(' '))
-
-;
+console.log(`I practiced for ${practiceMinutes} minutes.`);

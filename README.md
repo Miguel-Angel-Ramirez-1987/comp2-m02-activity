@@ -53,3 +53,13 @@ AI-assisted or AI-generated content is prohibited. Complete and explain your own
 ## Actual Result
 
 ## explanation or repair/retest
+
+## 1. Confirm the script and baseline
+
+I added console.log to main.js. I ran debug and did recieve an undefined result.
+
+## 2. Explain a binding update and older var code
+
+I followed slides 6-13. I added what I thought was the right scripts. I ran debug and my responses are undefined, comp-002 activity;script loaded, 2, 7, and I practiced for 12 mintues.
+
+## 3. Predict expressions and operand types
