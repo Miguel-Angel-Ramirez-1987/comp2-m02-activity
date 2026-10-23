@@ -26,9 +26,9 @@ Follow the matching Canvas directions and existing rubric for the precise requir
 
 ## Predictions and actual tests
 
-| Action/input or viewport | Predicted/expected | Actual before repair | My change | Actual after repair |
-|---|---|---|---|---|
-| [specific case] | [prediction] | [observed] | [change or none] | [rerun] |
+| Action/input or viewport | Predicted/expected | Actual before repair | My change        | Actual after repair |
+| ------------------------ | ------------------ | -------------------- | ---------------- | ------------------- |
+| [specific case]          | [prediction]       | [observed]           | [change or none] | [rerun]             |
 
 Record your actual results and unresolved limitations. Add the explanations named in Canvas. Do not invent successful tests.
 
@@ -45,3 +45,11 @@ Activity Text Entry remains available only as described in the Canvas directions
 ## Academic integrity and privacy
 
 AI-assisted or AI-generated content is prohibited. Complete and explain your own work under the existing course policy. Do not include keys, credentials, tokens, or private settings. Preserve the supplied license and identify reused material.
+
+## Step/input
+
+## prediction or expected result
+
+## Actual Result
+
+## explanation or repair/retest
