@@ -79,3 +79,7 @@ I did as instructed. I wrote the code as written. I ran debug and an error occur
 I did as instructed. I wrote the code as written. I ran debug and an error occurred.
 
 ## 7. Expose a gap and plan the independent work
+
+## Special Note
+
+I did flow through the instructions. I throughly progressed step by step. I did notice that that code worked on its own but not when it was written with other code.
